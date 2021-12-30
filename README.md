@@ -6,4 +6,5 @@
 Linkedin--> https://www.linkedin.com/in/bryan-santiago-cruz-angel-5454ab18a/?locale=en_US 
 
 See my work with web development here. https://github.com/TheBryan28/HTML-CSS-proyects 
+
 See my work with artificial intelligence here. IA Google Colab> https://colab.research.google.com/drive/1Hi1hxXDseGZb4qzHizoX4IkdJmi7v_4e?usp=sharing
