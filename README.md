@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bryan Cruz,fullstack Web Developer with knowledge in PHP, javascript, AngularJS, MYSQL, CSS3, HTML5, GIT, among others. 
+- 👋 Hi, I’m Bryan Cruz, Full Stack Web Developer with knowledge in PHP, javascript, AngularJS, MYSQL, CSS3, HTML5, GIT, among others. 
 - 👀 I’m interested in Web Development, artificial intelligence and data science.
 - 🌱 I’m currently learning more and more about web development, Since now i have been working as Software developer in OpenLMS with Moodle based saas platforms for more than 2 years.
 
