@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Bryan Cruz, Full Stack Web Developer with knowledge in PHP, javascript, AngularJS, MYSQL, CSS3, HTML5, GIT, among others. 
-- 👀 I’m interested in Web Development, artificial intelligence and data science.
-- 🌱 I’m currently learning more and more about web development, Since now i have been working as Software developer in OpenLMS with Moodle based saas platforms for more than 2 years.
+- 👋 Hi, I’m Bryan Cruz, Web Developer with knowledge in PHP, Javascript, Angular2+, MYSQL, CSS3, HTML5, GIT, among others. 
+- 👀 Full Stack Software Engineer with over 4 years of experience in the EdTech sector (Moodle & WordPress).
+- Currently Working at OpenLMS
+- 🌱 I am looking to take on high-impact technical challenges and contribute innovative ideas to international teams. Fluent in English (Advanced B2, IELTS) and Spanish.
 
 - 📫 How to reach me. 
-Linkedin--> https://www.linkedin.com/in/bryan-santiago-cruz-angel-5454ab18a/?locale=en_US 
+Linkedin--> https://www.linkedin.com/in/bryan-santiago-cruz-angel-5454ab18a/
 
-See my work with web development here. https://github.com/TheBryan28/HTML-CSS-proyects 
+Some projects from Courses or learning I have taken. https://github.com/TheBryan28/HTML-CSS-proyects 
 
-See my work with artificial intelligence here. IA Google Colab> https://colab.research.google.com/drive/1Hi1hxXDseGZb4qzHizoX4IkdJmi7v_4e?usp=sharing
+See my work with artificial intelligence here.
+SIPAIM research -> https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12088/120880V/Monitoring-and-evaluation-of-people-in-indoors-and-outdoors-using/10.1117/12.2606334.full?SSO=1 
+Google Colab -> https://colab.research.google.com/drive/1Hi1hxXDseGZb4qzHizoX4IkdJmi7v_4e?usp=sharing
