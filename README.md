@@ -1,11 +1,17 @@
-- 👋 Hi, I’m Bryan Cruz, Web Developer with knowledge in PHP, Javascript, Angular2+, MYSQL, CSS3, HTML5, GIT, among others.
-- 👀 In my current role at Open LMS, I led the implementation and development of Artificial Intelligence (AI) plugins, integrating OpenAI, Anthropic, and Gemini APIs. My experience also includes strategic code refactoring, UI/UX improvements with Angular, and performance optimization in critical modules.
-- 🌱 I am looking to take on high-impact technical challenges and contribute innovative ideas to international teams. Fluent in English (Advanced B2, IELTS) and Spanish.
 
-- 📫 How to reach me. 
+Senior Full-Stack Engineer with a proven track record of building scalable EdTech solutions and integrating advanced features with generative AI models (LLMs, RAG, Flowise). Expert in front-end ecosystems (React, Angular), enterprise back-end frameworks (Java/Spring Boot, Node.js/Next.js), and PHP platforms (Moodle, WordPress). 
+Adept at technical leadership and driving end-to-end project lifecycles, leveraging containerized infrastructure (Docker) and cloud platforms to orchestrate modern deployments. 
+
+Currently pursuing a Master’s degree in Software Engineering, expanding my expertise into microservices architectures (Java, Spring Cloud) and the implementation of cybersecurity practices (CWE, Pentesting) for the development of robust and secure software. 
+Seeking high-impact roles in AI-driven architecture or senior full-stack engineering.
+
+ Fluent in English (Advanced B2, IELTS) and Spanish.
+
+ PORTFOLIO
+https://bryan-dev-portfolio-sand.vercel.app/ 
+
 Linkedin--> https://www.linkedin.com/in/bryan-santiago-cruz-angel-5454ab18a/
 
-Some projects from Courses or learning I have taken. https://github.com/TheBryan28/HTML-CSS-proyects 
 
 See my research about artificial intelligence here.
 
